@@ -1,6 +1,6 @@
 
 
-HOME PAGINA:
+HOME PAGINA
 
 HTML + CSS: 2 dagen
 
@@ -10,12 +10,12 @@ HTML + CSS: 1 dag
 
 MEMBER PAGE:
 
-HTML + CSS + Javascript + SQL
+HTML + CSS + Javascript + SQL : 3 dagen
 
-LOGIN:
+LOGIN
 
-HTML + CSS + Javascript + SQL
+HTML + CSS + Javascript + SQL : 2 dagen 
 
-ADMIN PAGE:
+ADMIN PAGE
 
-HTML + CSS + Javascript + SQL
+HTML + CSS + Javascript + SQL : 4 dagen
